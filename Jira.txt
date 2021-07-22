@@ -1,0 +1,110 @@
+https://jiratrainingvv1.atlassian.net/jira/software/c/projects/PROJ/issues/?filter=allopenissues
+
+vidyatwins@gmail.com
+vidyaabhi
+
+
+Jira Tool
+---------------------------------------------
+
+Test Management tool
+----------------------------------
+we can drag all activities in a tool - test management tool
+you can also use this for bug tracking
+
+define req,
+write test cases
+report bug
+
+------------------------------------------------
+Bug tracking tool
+
+Only for bug reporting and tracking
+
+------------------------------------------------
+
+Agile Tools
+---------------------------
+
+Dev and testing activities
+define and tracking activities
+manage scrum activities
+manage scrum board
+
+tools available for Agile
+ --jira,versionOne,Teamcity.....
+
+
+---------------------------------------------------------
+
+Jira
+------------------------------------
+
+Agile mgment tool
+dev,tester,manager,product owner all can use
+we can also do test management activities
+if u install jfer plugin u can also do test mgment activities
+
+-----------------------------------------------------------------
+
+jira work flow
+-----------------------------
+
+can be used in two ways ---agile and test mgment
+
+stories
+sprint
+add stories to sprint
+during sprint dev team test team write there on activities
+------------------------------------------------------
+In jira everything is considered as issue types..
+
+install and configure jira
+---------------------------------
+
+--->pro(licensed)
+--->Free version: 10 users/ 30 days
+
+Agile scrum activities
+-------------------------------
+
+1.Creating the project in Jira
+
+2.How to add users/people in Jira
+----------------------------------------------
+settings - user management - opening anothe tab->add email of the user
+
+backlog->Epic->Stories
+Create Sprint-->Add stories to sprint-->start sprint-->add tasks for every story
+
+------------------------------------------
+
+3.create backlog-->Epic
+4.create stories in jira and add story points
+5.Creating Sprint
+6.Adding user stories to sprint
+7.starting sprint
+8.For each stories developer and tester and will add tasks.
+9.Sprint life cycle
+
+-------------------------------------------------------------------
+
+Test Management Activities(Zepyre)
+------------------------------------------
+
+1.Test cases
+2.Test cycles(regression,sanity etc)
+3.Update test case passed/failed/blocked
+4.Report the bug
+5.Generate reports
+
+we have to install plugin to do test management in Jira
+create test case in jire
+import multiple test cases in jira
+Create test cycle
+Add testcases to cycle
+execute/update test cases
+generate reports
+
+
+
